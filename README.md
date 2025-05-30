@@ -266,12 +266,30 @@ Update the following properties in your DAO classes:
 
 ## 📱 Usage
 
-1. **Admin Login**: Access the admin panel to manage doctors and system settings
 2. **Patient Registration**: Register new patients with complete medical information
 3. **Appointment Booking**: Schedule appointments with available doctors
 4. **Medical Records**: Maintain and update patient medical history
 5. **Generate Reports**: Create various analytical reports for management
 
+
+### Dashboard
+![Dashboard](screenshots/index.png)
+Main dashboard showing payroll overview and quick access to all modules
+
+### Employee Management
+![Employee Registration](screenshots/add.png)
+Employee registration form with comprehensive details
+
+![Employee List](screenshots/list.png)
+Complete employee directory with search and filter options
+
+### Salary Structure
+![Update_Salary Structure](screenshots/update.png)
+Salary component configuration interface
+
+### Reports Dashboard
+![Reports Dashboard](screenshots/report.png)
+Comprehensive salary and payroll analytics
 ## 🤝 Contributing
 
 1. Fork the project
