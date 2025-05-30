@@ -276,14 +276,14 @@ Update the following properties in your DAO classes:
 ![Dashboard](screenshots/index.png)
 Main dashboard showing payroll overview and quick access to all modules
 
-### Employee Management
+###Patient add
 ![Employee Registration](screenshots/add.png)
 Employee registration form with comprehensive details
 
-![Employee List](screenshots/list.png)
+![Patient List](screenshots/list.png)
 Complete employee directory with search and filter options
 
-### Salary Structure
+### update 
 ![Update_Salary Structure](screenshots/update.png)
 Salary component configuration interface
 
